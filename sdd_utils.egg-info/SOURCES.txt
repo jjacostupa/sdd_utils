@@ -1,0 +1,9 @@
+LICENSE
+README.md
+setup.py
+sdd/__init__.py
+sdd/utils.py
+sdd_utils.egg-info/PKG-INFO
+sdd_utils.egg-info/SOURCES.txt
+sdd_utils.egg-info/dependency_links.txt
+sdd_utils.egg-info/top_level.txt
