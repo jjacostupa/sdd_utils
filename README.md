@@ -1,5 +1,3 @@
 # Example Package
 
-This is a simple package. You can use
-[Github-flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-to write your content.
+This is a simple package. See https://pypi.org/project/sdd-utils/ for installation instructions.
